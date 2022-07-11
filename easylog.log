@@ -1,0 +1,4 @@
+DEBUG:root:This is a logging debug
+INFO:root:This is a logging info
+WARNING:root:This is a logging warning
+ERROR:root:This is a logging error

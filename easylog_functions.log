@@ -1,0 +1,8 @@
+2022-07-11 11:30:13,373 - myLogger - DEBUG - This is a logging debug
+2022-07-11 11:30:13,373 - myLogger - INFO - This is a logging info
+2022-07-11 11:30:13,373 - myLogger - WARNING - This is a logging warning
+2022-07-11 11:30:13,373 - myLogger - ERROR - This is a logging error
+2022-07-11 14:55:29,690 - myLogger - DEBUG - This is a logging debug
+2022-07-11 14:55:29,690 - myLogger - INFO - This is a logging info
+2022-07-11 14:55:29,690 - myLogger - WARNING - This is a logging warning
+2022-07-11 14:55:29,690 - myLogger - ERROR - This is a logging error

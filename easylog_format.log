@@ -1,0 +1,12 @@
+2022-07-11 10:09:33,447 - DEBUG - This is a logging debug
+2022-07-11 10:09:33,447 - INFO - This is a logging info
+2022-07-11 10:09:33,447 - WARNING - This is a logging warning
+2022-07-11 10:09:33,447 - ERROR - This is a logging error
+07/11/2022 10:15:59 AM - DEBUG - This is a logging debug
+07/11/2022 10:15:59 AM - INFO - This is a logging info
+07/11/2022 10:15:59 AM - WARNING - This is a logging warning
+07/11/2022 10:15:59 AM - ERROR - This is a logging error
+07/11/2022 10:23:22 AM - DEBUG - This is a logging debug - loggereasy_formatter.py
+07/11/2022 10:23:22 AM - INFO - This is a logging info - loggereasy_formatter.py
+07/11/2022 10:23:22 AM - WARNING - This is a logging warning - loggereasy_formatter.py
+07/11/2022 10:23:22 AM - ERROR - This is a logging error - loggereasy_formatter.py
